@@ -1,4 +1,4 @@
- ## *Note. This repository is depricated in favour of Polus.gg, and is now read-only as it will not be recieving updates. Please visit our [steam page](https://store.steampowered.com/app/1653240/Polusgg/) and our [discord](https://discord.gg/polus) for all updates**
+ ## *Note. This repository is deprecated in favor of Polus.gg, and is now read-only as it will not be receiving updates. Please visit our [steam page](https://store.steampowered.com/app/1653240/Polusgg/) and our [discord](https://discord.gg/polus) for all updates**
 
 
 [![Discord](./Images/Polus.png)](https://discord.gg/polus)
